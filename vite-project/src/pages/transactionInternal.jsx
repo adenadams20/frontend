@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function transaction.Internal() {
+export default function transactionInternal() {
   return (
-    <div>transaction.Internal</div>
+    <div>transactionInternal</div>
   )
 }
